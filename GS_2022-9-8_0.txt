@@ -1,0 +1,14 @@
+PNR				:	GS_2022-9-8_0
+TrainNo			:	1
+Train Name		:	GEDE SEALDAH LOCAL
+From			:	GEDE
+To				:	SEALDAH
+Travel Date		:	8/9/2022
+
+Passengers:
+---------------------------------------------------------
+Name		Age		Gender		Fair
+---------------------------------------------------------
+s		21		m		30.0
+
+Total Price: 30.0
